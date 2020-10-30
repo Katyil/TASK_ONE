@@ -32,6 +32,7 @@ public abstract class Car {
         kamaz.setMax(10000);
 
         System.out.println("Passenger car with maximum load " + number2);
+
         System.out.println("Cargo car with maximum load " + number);
     }
 }
